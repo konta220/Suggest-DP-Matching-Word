@@ -1,5 +1,6 @@
 Suggest-DP-Matching-Word
 ========================
+DP-MatchingをもちいたCUI上で動く文字の予測変換ソフト
 
 ##概要
 
